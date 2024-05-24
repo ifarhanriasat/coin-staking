@@ -1,8 +1,7 @@
 # Bytrade-Staking <br><br>
 ByTrade Token (BTT) is a cryptocurrency that is designed to power the ByTrade exchange platform. As a utility token, BTT can be used for a variety of functions within the platform, including paying trading fees and accessing premium features. One way to earn rewards with BTT is through its staking program, which allows users to lock up their tokens for a specified period in exchange for additional BTT rewards. By participating in the staking program, users can not only earn passive income, but also contribute to the liquidity and stability of the ByTrade exchange. In this way, the BTT staking program is a win-win situation for both the users and the ByTrade platform.<br><br><br>
 
-<h3> audit report: <br>
-https://drive.google.com/file/d/1ZdPl9OcgoEo28iPXFGkhZR7Fva7EF_R5/view?usp=drive_link
+Audit report: https://drive.google.com/file/d/1ZdPl9OcgoEo28iPXFGkhZR7Fva7EF_R5/view?usp=drive_link
 
 <h2> Getting Started </h2>
 <h6>Recommended Node version is 16.0.0 and above.</h6>
